@@ -1,0 +1,2 @@
+,dataset,isClassification,hiddenLayers,method,accuracy,precision,recall,NRMSE
+0,forestfires,False,2,GA,0,0,0,0.09360035992060826
